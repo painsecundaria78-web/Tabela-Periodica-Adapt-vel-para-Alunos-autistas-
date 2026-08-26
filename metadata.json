@@ -1,0 +1,6 @@
+{
+  "name": "Tabela Periódica Adaptável Marie Curie",
+  "description": "Tabela periódica adaptável Marie Curie com recursos de acessibilidade, síntese de voz (TTS) em português, alto contraste e linguagem simples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
